@@ -1,0 +1,120 @@
+.vacancy-card{
+    background-color: #fff;
+    width: 100%;
+    height: 36vh;
+    margin-bottom: 1rem;
+    box-shadow: 0px 10px 10px rgba(5, 5, 6, 0.05);
+    border-radius: 5px;
+    .vacancy-card-header{
+        width: 100%;
+        height: 9vh;
+    }
+    .card-info{
+        position: relative;
+        div{
+            margin-top: 0.3rem;
+            margin-bottom: 0.3rem;
+        }
+        padding: 0.2rem 1.5rem;
+        .status-label{
+            display: inline-block;
+            flex-direction: row;
+            padding: 1rem;
+            align-items: flex-start;
+            padding: 0px 1rem;
+            border-radius: 0.5rem;
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+            .status-label-text{
+    
+                font-style: normal;
+                font-weight: normal;
+                font-size: 1.2rem;
+                line-height: 2rem;
+                /* identical to box height, or 143% */
+    
+                display: flex;
+                align-items: center;
+    
+                /* Red-700 */
+    
+    
+    
+                /* Inside auto layout */
+    
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+                margin: 0px 10px;
+            }
+        }
+        .vacancy-name-and-image{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            b{
+                font-size: 1.5rem;
+            }
+            img{
+                width: 10rem;
+                height: 5rem;
+            }
+        }
+        .salary{
+            font-size: 1.4rem;
+        }
+        .companyNameAndLocation{
+            max-width: 20rem;
+            font-size: 1.4rem;
+            display: flex;
+            span{
+                margin-right: 2rem;
+            }
+        }
+        .benefits{
+            display: flex;
+            .fatDiv{
+                margin: 1rem;
+                width: 1rem;
+                height: 1rem;
+            }
+            margin-top: 1rem;
+            // margin-bottom: 1rem;
+            font-size: 1.2rem;
+            span{
+                margin-right: 1rem;
+                border: 1px solid #E5E5E5;
+                padding: 0.5rem;
+                box-shadow: 0px 10px 10px rgba(5, 5, 6, 0.05);
+                border-radius: 5px;
+            }
+        }
+        .card-footer{
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            justify-content: space-between;
+            font-size: 1.2rem;
+            img{
+                width: 3rem;
+                height: 3rem;
+            }
+            .apply{
+                width: 2rem;
+                height: 2rem;
+            }
+            .footerInfo{
+                display: flex;
+                flex-direction: row;
+                align-items: center;
+                justify-content: space-around;
+                min-width: 20rem;
+                div{
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+    
+}

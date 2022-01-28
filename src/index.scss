@@ -1,0 +1,85 @@
+@font-face {
+  font-family: 'Graphik-Regular-Web';
+  src: local('Graphik-Regular-Web'), url('./fonts/Graphik-Regular-Web.woff2') format('woff');
+}
+
+@font-face {
+  font-family: 'Graphik-Bold-Web';
+  src: local('Graphik-Bold-Web'), url('./fonts/Graphik-Bold-Web.woff2') format('woff');
+}
+html {
+  font-size: 10px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #E5E5E5;
+  font-family: 'Graphik-Regular-Web';
+}
+main{
+  position: relative;
+  margin: 0 auto;
+  width: 40vw;
+  height: 100vh;
+  background-color: #E5E5E5;
+}
+
+.red{
+  color: #FF5252;
+}
+
+.redLabel{
+  background-color: #FFE9E9;
+  color: #BC0002;
+}
+
+.greenLabel{
+  background-color: #D5FFE6;
+  color: #00702D;
+}
+
+.blackLabel{
+  background-color: #C8D1D6;
+  color: #303A3E;
+}
+
+.halfOpacity{
+  opacity: 0.6;
+}
+
+.bold{
+  font-weight: bold;
+  color: red;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+}
+
+@media (max-width: 1150px) {
+  html{
+    font-size: 9px;
+  }
+  .benefits{
+    margin-bottom: 5rem;
+    max-width: 30rem;
+  }
+}
+
+@media (max-width: 900px) {
+  html{
+    font-size: 8px;
+  }
+  .benefits{
+    overflow: auto;
+    white-space: nowrap;
+  }
+  .card-footer{
+    margin: auto 0;
+  }
+  .bold{
+    display: none;
+  }
+}
+
+
+

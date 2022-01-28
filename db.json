@@ -1,0 +1,103 @@
+{
+    "vacancies": [
+        {
+            "id": 0,
+            "name": "Продавец-консультант (ТРЦ Дарынок, ТРЦ Рив Гош, ТРЦ Нью Вей, м. Дарница)",
+            "imageURL": "https://seeklogo.com/images/M/millwall-logo-9EE625F8D4-seeklogo.com.png",
+            "salary": "10 000 — 15 000 ₴",
+            "companyName": "FISHKI.UA",
+            "location": "Киев",
+            "benefits": ["Робота в офисе", "Медицинское страхование", "Курсы английского"],
+            "timeAgo": "37 минут назад"
+        },
+        {
+            "id": 1,
+            "name": "Junior FrontEnd Developer",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/all-components.svg",
+            "salary": "20 000 — 30 000 ₴",
+            "companyName": "Andron",
+            "location": "Одесса",
+            "benefits": ["Робота в офисе", "Курсы английского"],
+            "timeAgo": "45 минут назад"
+        },
+        {
+            "id": 2,
+            "name": "Кассир",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/bank-slaski-1.svg",
+            "salary": "8 000 — 12 000 ₴",
+            "companyName": "Банк Сласки",
+            "location": "Чернигов",
+            "benefits": ["Робота в офисе", "Медицинское страхование"],
+            "timeAgo": "1 час назад"
+        },
+        {
+            "id": 3,
+            "name": "Парикмахер-стилист",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/prince-2.svg",
+            "salary": "12 000 — 15 000 ₴",
+            "companyName": "Prince",
+            "location": "Ужгород",
+            "benefits": ["Гибкий график"],
+            "timeAgo": "2 часа назад"
+        },
+        {
+            "id": 4,
+            "name": "Строитель",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/depind-1.svg",
+            "salary": "18 000 — 24 000 ₴",
+            "companyName": "DOM",
+            "location": "Киев",
+            "benefits": ["Медицинское страхование"],
+            "timeAgo": "2 часа назад"
+        },
+        {
+            "id": 5,
+            "name": "Винный сомелье",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/cugel.svg",
+            "salary": "30 000 — 45 000 ₴",
+            "companyName": "Cugel",
+            "location": "Киев",
+            "timeAgo": "3 часа назад"
+        },
+        {
+            "id": 6,
+            "name": "Аниматор",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/aac-kids.svg",
+            "salary": "5 000 — 7 000 ₴",
+            "companyName": "AAC Kids",
+            "location": "Винница",
+            "benefits": ["Робота для студентов", "Гибкий график"],
+            "timeAgo": "4 часа назад"
+        },
+        {
+            "id": 7,
+            "name": "Босс",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/boss-7238.svg",
+            "salary": "100 000 — 150 000 ₴",
+            "companyName": "Boss",
+            "location": "Киев",
+            "benefits": ["Неограниченные возможности"],
+            "timeAgo": "7 часов назад"
+        },
+        {
+            "id": 8,
+            "name": "Турагент",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/google-trips-1.svg",
+            "salary": "18 000 — 20 000 ₴",
+            "companyName": "Поїхали.UA",
+            "location": "Киев",
+            "benefits": ["Робота в офисе", "Медицинское страхование"],
+            "timeAgo": "12 часов назад"
+        },
+        {
+            "id": 9,
+            "name": "Механик",
+            "imageURL": "https://cdn.worldvectorlogo.com/logos/metro-inc-logo.svg",
+            "salary": "11 000 — 14 000 ₴",
+            "companyName": "Metro",
+            "location": "Черкассы",
+            "timeAgo": "1 день назад"
+        }
+
+    ]
+    }
